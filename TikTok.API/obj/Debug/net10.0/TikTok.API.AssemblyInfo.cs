@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TikTok.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dc4cc8057cd042e3f01866d519c72847dc167d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b25efda62eb130c7b47c7afea2334ec3cd0f32c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TikTok.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TikTok.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -173,3 +173,5 @@ D:\TikTok\BE\TikTok.API\obj\Debug\net10.0\refint\TikTok.API.dll
 D:\TikTok\BE\TikTok.API\obj\Debug\net10.0\TikTok.API.pdb
 D:\TikTok\BE\TikTok.API\obj\Debug\net10.0\TikTok.API.genruntimeconfig.cache
 D:\TikTok\BE\TikTok.API\obj\Debug\net10.0\ref\TikTok.API.dll
+D:\TikTok\BE\TikTok.API\bin\Debug\net10.0\Npgsql.dll
+D:\TikTok\BE\TikTok.API\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
