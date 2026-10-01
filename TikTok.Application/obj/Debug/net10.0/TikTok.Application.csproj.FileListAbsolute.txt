@@ -1,0 +1,16 @@
+D:\TikTok\BE\TikTok.Application\bin\Debug\net10.0\TikTok.Application.deps.json
+D:\TikTok\BE\TikTok.Application\bin\Debug\net10.0\TikTok.Application.dll
+D:\TikTok\BE\TikTok.Application\bin\Debug\net10.0\TikTok.Application.pdb
+D:\TikTok\BE\TikTok.Application\bin\Debug\net10.0\TikTok.Domain.dll
+D:\TikTok\BE\TikTok.Application\bin\Debug\net10.0\TikTok.Domain.pdb
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\TikTok.Application.csproj.AssemblyReference.cache
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\TikTok.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\TikTok.Application.AssemblyInfoInputs.cache
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\TikTok.Application.AssemblyInfo.cs
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\TikTok.Application.csproj.CoreCompileInputs.cache
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\TikTok.Application.sourcelink.json
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\TikTok.A.B74843FD.Up2Date
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\TikTok.Application.dll
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\refint\TikTok.Application.dll
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\TikTok.Application.pdb
+D:\TikTok\BE\TikTok.Application\obj\Debug\net10.0\ref\TikTok.Application.dll

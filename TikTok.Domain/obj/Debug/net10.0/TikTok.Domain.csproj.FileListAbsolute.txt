@@ -1,0 +1,12 @@
+D:\TikTok\BE\TikTok.Domain\bin\Debug\net10.0\TikTok.Domain.deps.json
+D:\TikTok\BE\TikTok.Domain\bin\Debug\net10.0\TikTok.Domain.dll
+D:\TikTok\BE\TikTok.Domain\bin\Debug\net10.0\TikTok.Domain.pdb
+D:\TikTok\BE\TikTok.Domain\obj\Debug\net10.0\TikTok.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TikTok\BE\TikTok.Domain\obj\Debug\net10.0\TikTok.Domain.AssemblyInfoInputs.cache
+D:\TikTok\BE\TikTok.Domain\obj\Debug\net10.0\TikTok.Domain.AssemblyInfo.cs
+D:\TikTok\BE\TikTok.Domain\obj\Debug\net10.0\TikTok.Domain.csproj.CoreCompileInputs.cache
+D:\TikTok\BE\TikTok.Domain\obj\Debug\net10.0\TikTok.Domain.sourcelink.json
+D:\TikTok\BE\TikTok.Domain\obj\Debug\net10.0\TikTok.Domain.dll
+D:\TikTok\BE\TikTok.Domain\obj\Debug\net10.0\refint\TikTok.Domain.dll
+D:\TikTok\BE\TikTok.Domain\obj\Debug\net10.0\TikTok.Domain.pdb
+D:\TikTok\BE\TikTok.Domain\obj\Debug\net10.0\ref\TikTok.Domain.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TikTok.API/TikTok.API.csproj" />
+  <Project Path="TikTok.Application/TikTok.Application.csproj" />
+  <Project Path="TikTok.Domain/TikTok.Domain.csproj" />
+  <Project Path="TikTok.Infrastructure/TikTok.Infrastructure.csproj" />
+</Solution>
