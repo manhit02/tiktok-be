@@ -59,7 +59,8 @@ builder.Services.AddCors(options =>
     options.AddPolicy("Frontend", policy =>
     {
         policy
-            .WithOrigins("http://localhost:3001")
+            .WithOrigins("http://localhost:3001", "https://tiktok-fe-two.vercel.app")
+
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
